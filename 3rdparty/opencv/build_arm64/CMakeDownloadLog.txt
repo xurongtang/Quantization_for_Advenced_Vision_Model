@@ -1,0 +1,5 @@
+#use_cache "/home/rton/ModelQuantization/3rdparty/opencv/.cache"
+#do_unpack "v0.1.2e.zip" "962ce79e0b95591f226431f7b5f152cd" "https://github.com/opencv/ade/archive/v0.1.2e.zip" "/home/rton/ModelQuantization/3rdparty/opencv/build_arm64/3rdparty/ade"
+#check_md5 "/home/rton/ModelQuantization/3rdparty/opencv/.cache/ade/962ce79e0b95591f226431f7b5f152cd-v0.1.2e.zip"
+#mkdir "/home/rton/ModelQuantization/3rdparty/opencv/build_arm64/3rdparty/ade"
+#unpack "/home/rton/ModelQuantization/3rdparty/opencv/build_arm64/3rdparty/ade" "/home/rton/ModelQuantization/3rdparty/opencv/.cache/ade/962ce79e0b95591f226431f7b5f152cd-v0.1.2e.zip"

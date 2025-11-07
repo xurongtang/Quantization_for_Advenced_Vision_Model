@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rton/ModelQuantization/3rdparty/opencv/3rdparty/libjpeg-turbo/simd/arm/aarch64/jsimd_neon.S
+
